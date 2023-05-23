@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo Vásquez</h1>
-<h3 align="center">Estoy culminado mi carrera de Ingeniero en sistemas</h3>
+
 
 - 💬 Ask me about **HTML, Microsoft Azure, Tensorflow**
 
